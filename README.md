@@ -7,3 +7,7 @@ This repository serves as a centralized location for hosting and version-control
 📂 Contents
 
 - **Prakash resume (2).pdf**: The latest version of my professional resume in PDF format.
+
+🚀 About Me
+
+I am a passionate developer with experience in building modern web applications, e-commerce platforms, and interactive user interfaces. I specialize in both frontend and backend technologies, delivering robust and visually appealing solutions.
