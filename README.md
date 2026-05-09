@@ -1,4 +1,4 @@
-# 📄 Prakash - Professional Resume
+ 📄 Prakash - Professional Resume
 
 Welcome to the repository containing my professional resume. 
 
