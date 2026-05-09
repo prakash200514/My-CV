@@ -15,7 +15,7 @@ I am a passionate developer with experience in building modern web applications,
  Key Skills:
 
 **Frontend**: React.js, HTML5, CSS3, JavaScript
-- **Backend**: PHP, MySQL
+**Backend**: PHP, MySQL
 - **Tools**: Git, XAMPP, Node.js
 
 ## 📫 Contact
